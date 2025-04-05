@@ -1,7 +1,7 @@
-<h1>Hi 👋, I'm Nguyen Thanh Vinh </h1>
-<p>A junior Back-end Developer</p>
+
 # 💫 About Me:
 👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning at Greenwich University Vietnam<br>💬 Ask me about<br>⚡ Fun fact
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100014541101109) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vinh._.ngz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thanh-vinh-9b724a151/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinhnguyenn1902@gmail.com) 
@@ -18,3 +18,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rouki1210&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
